@@ -93,6 +93,12 @@ The code and experimental details are provided for research and academic purpose
 
 Please refer to the associated research article for author information and affiliations.
 
+### Dataset Citation
+
+G. Mani, "NASA Battery Data (Cleaned)," Kaggle, 2024. Available at: https://www.kaggle.com/datasets/mystifoe77/nasa-battery-data-cleaned/data.
+
+The dataset is based on NASA lithium-ion battery aging measurements and is used in this repository for next-cycle degradation prediction experiments. Please cite the original dataset contributor and refer to the Kaggle dataset page for access and usage information.
+
 ## Citation
 
 Citation information will be added following publication of the manuscript.
